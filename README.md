@@ -1,2 +1,2 @@
-# Mail
-Implemented a responsive user interface for composing and sending emails.
+CS50 Web
+Project 3 - Mail
